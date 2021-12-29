@@ -1,9 +1,24 @@
-### Hello World!
 
-I am Eric Campos from Brazil (🇧🇷). I've been working as Software Developer since 2004. Currently working at [Banco do Brasil](www.bb.com.br), being outsourced by [Capgemini Brazil](www.capgemini.com), as Fullstack Developer using Java 8, AngularJS and ReactJS. Also working on my Front-End Developer career, increasing ReactJS and React Native skills. 
+<h1>Opa! Bão? Sou Eric, trabalho como engenheiro de software utilizando Java e Python. estou em Brasília, Brazil, mas só fisicamente :sweat_smile:.</h1>
+<h1>Hey, I'm Eric! I work as a software engineer working with Java and Python. Based in Brasília, Brazil, physically only :sweat_smile:.</h1>
 
-In my free time I like to fish (⚽️), to learn (📚), to meet good old friends (🍺) and to go to historical events with my wife (this includes Victorian costumes, Medieval and Steampunk festivals).
+<div align="center">
+  <a href="https://github.com/ericampos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericampos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericampos&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Eric-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Eric-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Eric-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Eric-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Eric-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Eric-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+</div>
 
-You can find my at:
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camposeric)](https://www.linkedin.com/in/camposeric)
+<div> 
+  <a href="https://www.linkedin.com/in/camposeric" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/ericampos/ericampos/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
