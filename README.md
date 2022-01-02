@@ -2,10 +2,11 @@
 <h3>Opa! Bão? Sou Eric, trabalho como engenheiro de software utilizando Java e Python. estou em Brasília, Brazil, mas só fisicamente :sweat_smile:.</h3>
 <h3>Hey, I'm Eric! I work as a software engineer working with Java and Python. Based in Brasília, Brazil, physically only :sweat_smile:.</h3>
 
-<div align="center" style="display: inline_block">
-  <a href="https://github.com/ericampos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericampos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericampos&layout=compact&langs_count=7&theme=dark"/>
+<div align="center" >
+  <a href="https://github.com/ericampos" style="display: inline_block">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericampos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericampos&layout=compact&langs_count=7&theme=dark"/>
+  </a>
 </div>
 <hr/>
 <div style="display: inline_block"><br>
